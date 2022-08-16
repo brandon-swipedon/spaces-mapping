@@ -1,12 +1,11 @@
 <script setup lang="ts">
-import Map from './components/Map.vue';
+import MapItem from "./components/MapItem.vue";
 </script>
 
 <template>
   <main>
-    <Map />
+    <MapItem />
   </main>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
